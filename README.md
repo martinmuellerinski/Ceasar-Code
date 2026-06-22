@@ -1,2 +1,1 @@
-# Ceasar-Code
-One of my hobbies is encrypting stuff
+# THIS COULD BE USEFULL IN THE FUTURE
